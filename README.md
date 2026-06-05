@@ -1,52 +1,82 @@
 # Immanuel Vicente
 
-Desenvolvedor full-stack e estudante de Analise e Desenvolvimento de Sistemas, em Amargosa-BA. Trabalho com sistemas web e mobile, APIs, automacao de processos e solucoes para gestao publica e produtos digitais.
+<p>
+  <strong>Desenvolvedor Full Stack | ADS | Web, Mobile, APIs e Automacao</strong>
+</p>
 
-Tenho atuado com TypeScript, React/Next.js, React Native/Expo, Node/NestJS, Python/Django/FastAPI, bancos SQL e deploy com Docker/Portainer.
+<p>
+  Desenvolvedor full-stack e estudante de Analise e Desenvolvimento de Sistemas, em Amargosa-BA. Trabalho com sistemas web e mobile, APIs, automacao de processos e solucoes para gestao publica e produtos digitais.
+</p>
 
-## Atualmente
+<p>
+  <a href="https://www.linkedin.com/in/immanuel-vicente-8b0767189/">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+  <a href="https://github.com/imagoel">
+    <img alt="GitHub" src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
+  </a>
+</p>
 
-- Estagio em desenvolvimento de software na EvolvedWorld, atuando em uma plataforma de cardapio digital com backend, web, mobile, integracoes e deploy.
-- Organizacao do meu portfolio tecnico com projetos reais, estudos e sistemas desenvolvidos em contexto profissional.
-- Estudante de Analise e Desenvolvimento de Sistemas pela Universidade Salvador.
+---
 
-## Experiencia pratica
+## Sobre mim
 
-### Prefeitura / gestao publica
+- Estagio em desenvolvimento de software na **EvolvedWorld**, atuando em uma plataforma de cardapio digital com backend, web, mobile, integracoes e deploy.
+- Experiencia pratica com projetos para **gestao publica**, incluindo certificados digitais, gestao de projetos e inventario arboreo com calculo de risco.
+- Interesse em sistemas reais, automacao de processos, APIs bem organizadas, mobile offline-first e deploy com Docker/Portainer.
 
-Desenvolvi sistemas internos e operacionais com foco em automacao, gestao e atendimento a demandas reais:
+---
 
-- **Sistema de Certificados**: emissao, consulta, validacao publica e administracao de certificados digitais por secretaria.
-- **Gestao de Projetos GTI**: sistema para acompanhamento de projetos, permissao de usuarios e organizacao de demandas.
-- **Arvore Risco de Queda**: app mobile offline-first e painel web para inventario arboreo, GPS, calculo de risco, exportacao KMZ e relatorio Word.
+## Linguagens e tecnologias
 
-### EvolvedWorld
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,python,django,postgres,mysql,docker,git,github,firebase,figma,vscode" alt="Tecnologias" />
+</p>
 
-Atuacao no desenvolvimento de uma plataforma de cardapio digital dividida em backend, aplicacao web e aplicativo mobile:
-
-- API com NestJS, Prisma, MySQL e integracoes de pagamento/ambiente.
-- Web app com Next.js/React e organizacao de fluxos administrativos.
-- App mobile com React Native/Expo, ambientes por stage e preparacao para build/deploy.
+---
 
 ## Projetos em destaque
 
 | Projeto | Descricao | Stack |
 |---|---|---|
 | [Arvore Risco de Queda](https://github.com/imagoel/arvore-risco-queda) | Inventario arboreo com app mobile offline-first, painel web, GPS, KMZ e relatorio Word. | TypeScript, React Native, Expo, Docker |
-| [Sistema de Certificados](https://github.com/imagoel/certificado) | Emissao e validacao de certificados digitais com painel administrativo. | Python, FastAPI, PostgreSQL, Docker |
-| [Gestao de Projetos](https://github.com/imagoel/gestao-de-projeto) | Sistema full-stack para gestao de projetos e permissoes. | TypeScript, Docker, Frontend/Backend |
-| [Gestao Patrimonial](https://github.com/imagoel/gestao-patrimonio) | Sistema de gestao patrimonial com deploy via Docker/Portainer. | TypeScript, Full-stack |
-| [Formatador de Texto](https://github.com/imagoel/formatador-de-texto) | Ferramenta web para formatacao e padronizacao de documentos. | HTML, Docker |
-| [Compass Event API](https://github.com/imagoel/ANMAR25_D03_COMPASSEVENT) | API de eventos criada como projeto de estudo. | TypeScript, NestJS |
+| [Sistema de Certificados](https://github.com/imagoel/certificado) | Emissao, administracao e validacao publica de certificados digitais. | Python, FastAPI, PostgreSQL, Docker |
+| [Gestao de Projetos](https://github.com/imagoel/gestao-de-projeto) | Sistema full-stack para acompanhamento de projetos, demandas e permissoes. | TypeScript, React, Node.js, Docker |
+| [Gestao Patrimonial](https://github.com/imagoel/gestao-patrimonio) | Sistema de gestao patrimonial para prefeitura, com autenticacao e deploy Docker/Portainer. | TypeScript, Full-stack |
+| [Painel Visualizar](https://github.com/imagoel/painel-visualizar) | Painel web com login para visualizacao de sistemas e dados operacionais. | JavaScript, Node.js, Docker |
+| [Compass Event API](https://github.com/imagoel/ANMAR25_D03_COMPASSEVENT) | API de eventos criada como projeto de estudo em backend. | TypeScript, NestJS |
 
-## Stack
+---
 
-- **Frontend:** React, Next.js, HTML, CSS, Tailwind
-- **Mobile:** React Native, Expo
-- **Backend:** Node.js, NestJS, Express, Python, Django, FastAPI
-- **Banco de dados:** PostgreSQL, MySQL, Prisma, SQLAlchemy, Drizzle ORM
-- **DevOps:** Docker, Docker Compose, Portainer, Nginx, Cloudflare Tunnel
-- **Outros:** Git, GitHub, Firebase, APIs REST, autenticacao, automacao de processos
+## Experiencia pratica
+
+### EvolvedWorld
+
+Atuacao no desenvolvimento de uma plataforma de cardapio digital dividida em backend, aplicacao web e aplicativo mobile:
+
+- API com NestJS, Prisma, MySQL e integracoes.
+- Web app com Next.js/React.
+- App mobile com React Native/Expo.
+- Organizacao de ambientes, documentacao e apoio ao deploy.
+
+### Prefeitura / Gestao publica
+
+Desenvolvimento de sistemas internos e operacionais com foco em automacao, gestao e atendimento a demandas reais:
+
+- **Sistema de Certificados:** emissao, consulta, validacao publica e administracao de certificados digitais por secretaria.
+- **Gestao de Projetos GTI:** acompanhamento de projetos, demandas, status e permissoes.
+- **Arvore Risco de Queda:** app mobile offline-first e painel web para inventario arboreo, GPS, risco, KMZ e relatorio Word.
+
+---
+
+## Estatisticas
+
+<p>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=imagoel&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imagoel&layout=compact&theme=tokyonight&hide_border=true" alt="Linguagens mais usadas" />
+</p>
+
+---
 
 ## Contato
 
