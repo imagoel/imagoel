@@ -6,7 +6,7 @@ Tenho atuado com TypeScript, React/Next.js, React Native/Expo, Node/NestJS, Pyth
 
 ## Atualmente
 
-- Estagio em desenvolvimento de software, atuando no ecossistema Blue Cardapio: backend, web, mobile, integracoes e deploy.
+- Estagio em desenvolvimento de software na EvolvedWorld, atuando em uma plataforma de cardapio digital com backend, web, mobile, integracoes e deploy.
 - Organizacao do meu portfolio tecnico com projetos reais, estudos e sistemas desenvolvidos em contexto profissional.
 - Estudante de Analise e Desenvolvimento de Sistemas pela Universidade Salvador.
 
@@ -20,9 +20,9 @@ Desenvolvi sistemas internos e operacionais com foco em automacao, gestao e aten
 - **Gestao de Projetos GTI**: sistema para acompanhamento de projetos, permissao de usuarios e organizacao de demandas.
 - **Arvore Risco de Queda**: app mobile offline-first e painel web para inventario arboreo, GPS, calculo de risco, exportacao KMZ e relatorio Word.
 
-### Blue Cardapio
+### EvolvedWorld
 
-Atuacao no desenvolvimento de um produto dividido em backend, aplicacao web e aplicativo mobile:
+Atuacao no desenvolvimento de uma plataforma de cardapio digital dividida em backend, aplicacao web e aplicativo mobile:
 
 - API com NestJS, Prisma, MySQL e integracoes de pagamento/ambiente.
 - Web app com Next.js/React e organizacao de fluxos administrativos.
