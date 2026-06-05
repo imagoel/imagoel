@@ -37,7 +37,7 @@ Atuacao no desenvolvimento de um produto dividido em backend, aplicacao web e ap
 | [Gestao de Projetos](https://github.com/imagoel/gestao-de-projeto) | Sistema full-stack para gestao de projetos e permissoes. | TypeScript, Docker, Frontend/Backend |
 | [Gestao Patrimonial](https://github.com/imagoel/gestao-patrimonio) | Sistema de gestao patrimonial com deploy via Docker/Portainer. | TypeScript, Full-stack |
 | [Formatador de Texto](https://github.com/imagoel/formatador-de-texto) | Ferramenta web para formatacao e padronizacao de documentos. | HTML, Docker |
-| [Compass Reservation API](https://github.com/imagoel/ANMAR25_D02_COMPASSRESERVATION) | API de reservas criada como projeto de estudo. | TypeScript, NestJS, Prisma, MySQL |
+| [Compass Event API](https://github.com/imagoel/ANMAR25_D03_COMPASSEVENT) | API de eventos criada como projeto de estudo. | TypeScript, NestJS |
 
 ## Stack
 
